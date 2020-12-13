@@ -1,0 +1,82 @@
+{
+  "a_chord": {
+    "category": "neutral",
+    "subtitle": "a_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/a_chord",
+        "stream": false
+      }
+    ]
+  },
+  "c_chord": {
+    "category": "neutral",
+    "subtitle": "c_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/c_chord",
+        "stream": false
+      }
+    ]
+  },
+  "d_chord": {
+    "category": "neutral",
+    "subtitle": "d_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/d_chord",
+        "stream": false
+      }
+    ]
+  },
+  "e_chord": {
+    "category": "neutral",
+    "subtitle": "e_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/e_chord",
+        "stream": false
+      }
+    ]
+  },
+  "f_chord": {
+    "category": "neutral",
+    "subtitle": "f_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/f_chord",
+        "stream": false
+      }
+    ]
+  },
+  "g_chord": {
+    "category": "neutral",
+    "subtitle": "g_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/g_chord",
+        "stream": false
+      }
+    ]
+  },
+  "am_chord": {
+    "category": "neutral",
+    "subtitle": "am_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/am_chord",
+        "stream": false
+      }
+    ]
+  },
+  "em_chord": {
+    "category": "neutral",
+    "subtitle": "em_chord",
+    "sounds": [
+      {
+        "name": "geetar:neutral/em_chord",
+        "stream": false
+      }
+    ]
+  }
+}

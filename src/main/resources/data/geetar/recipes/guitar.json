@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "N",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "geetar:guitar_body"
+    },
+    "N": {
+      "item": "geetar:guitar_neck"
+    },
+    "S": {
+      "item": "geetar:guitar_strings"
+    }
+  },
+  "result": {
+    "item": "geetar:guitar"
+  }
+}

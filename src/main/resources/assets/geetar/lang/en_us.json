@@ -1,0 +1,16 @@
+{
+  "itemGroup.geetartab": "Geetar",
+  "key.categories.guitar": "Guitar Chords",
+  "key.a_chord": "A Chord",
+  "key.c_chord": "C Chord",
+  "key.d_chord": "D Chord",
+  "key.e_chord": "E Chord",
+  "key.f_chord": "F Chord",
+  "key.g_chord": "G Chord",
+  "key.am_chord": "Am Chord",
+  "key.em_chord": "Em Chord",
+  "item.geetar.guitar_body": "Guitar Body",
+  "item.geetar.guitar_neck": "Guitar Neck",
+  "item.geetar.guitar_strings": "Guitar Strings",
+  "item.geetar.guitar": "Guitar"
+}
