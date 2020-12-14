@@ -14,8 +14,4 @@ public class KeyBindings {
     public static final KeyBinding G_CHORD = new KeyBinding("key.g_chord", KeyConflictContext.UNIVERSAL, InputMappings.Type.KEYSYM, GLFW.GLFW_KEY_PERIOD, "key.categories.guitar");
     public static final KeyBinding AM_CHORD = new KeyBinding("key.am_chord", KeyConflictContext.UNIVERSAL, InputMappings.Type.KEYSYM, GLFW.GLFW_KEY_L, "key.categories.guitar");
     public static final KeyBinding EM_CHORD = new KeyBinding("key.em_chord", KeyConflictContext.UNIVERSAL, InputMappings.Type.KEYSYM, GLFW.GLFW_KEY_SEMICOLON, "key.categories.guitar");
-
-    public void fart() {
-        if (KeyBindings.A_CHORD.isPressed())
-    }
 }
